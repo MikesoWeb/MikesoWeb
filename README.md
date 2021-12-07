@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Mike 
+
 - 🔭 I’m currently working on flask blog
 - 🌱 I’m currently learning flask
 
