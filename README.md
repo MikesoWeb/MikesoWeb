@@ -5,9 +5,9 @@ I'm Mike
 - 🔭 I’m currently working on flask blog
 - 🌱 I’m currently learning flask
 - 📫 I'm currently work on: http://mikedoit.pythonanywhere.com/
-- 
+-  
 - 🤔 How to reach me: 
-- 
+ 
 - VK profile https://vk.com/hello_world_ru
 - VK group https://vk.com/python_for_me
 - Youtube channel https://www.youtube.com/channel/UCLr7DxWBT0NWZv_w4uvLJaw
