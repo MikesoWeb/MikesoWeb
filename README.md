@@ -4,7 +4,7 @@ I'm Mike
 
 - 🔭 I’m currently working on flask blog
 - 🌱 I’m currently learning flask
-- - 📫 Currently work on: http://mikedoit.pythonanywhere.com/
+- 📫 I'm currently work on: http://mikedoit.pythonanywhere.com/
 - 
 - 🤔 How to reach me: 
 - 
