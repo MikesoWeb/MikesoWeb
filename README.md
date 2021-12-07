@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on flask blog
+- 🌱 I’m currently learning flask
+
 Mikhail Terekhov | Mike do It
 
 <!--
@@ -7,8 +10,8 @@ Mikhail Terekhov | Mike do It
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on flask blog
+- 🌱 I’m currently learning flask
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
