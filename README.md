@@ -2,18 +2,18 @@
 
 I'm Mike 
 
-- 🔭 I’m currently working on flask blog
-- 🌱 I’m currently learning flask
-- 📫 I'm currently work on: http://mikedoit.pythonanywhere.com/
--  
-- 🤔 How to reach me: 
+
+- 🌱 I’m currently learning FastAPI
+- 🔭 My web projects:
+1. [Flask blog](http://mikedoit.pythonanywhere.com/)
+2. [Flask English App](http://doyouknow.pythonanywhere.com/) 
  
-- VK profile https://vk.com/hello_world_ru
-- VK group https://vk.com/python_for_me
-- Youtube channel https://www.youtube.com/channel/UCLr7DxWBT0NWZv_w4uvLJaw
+- 🤔 How to reach me:
+- [VK profile](https://vk.com/hello_world_ru)
+- [VK group](https://vk.com/python_for_me)
+- [Youtube channel](https://www.youtube.com/channel/UCLr7DxWBT0NWZv_w4uvLJaw)
 
 Mikhail Terekhov | Mike do It
-
 <!--
 **MikesoWeb/MikesoWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
