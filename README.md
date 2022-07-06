@@ -6,7 +6,7 @@ I'm Mike
 - 🌱 I’m currently learning FastAPI
 - 🔭 My web projects:
 1. [Flask blog](http://mikedoit.pythonanywhere.com/)
-2. [Flask English App](http://doyouknow.pythonanywhere.com/) 
+2. [Flask English App](https://my-english-coach.herokuapp.com/) 
  
 - 🤔 How to reach me:
 - [VK profile](https://vk.com/hello_world_ru)
