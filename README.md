@@ -3,10 +3,14 @@
 I'm Mike 
 
 
-- 🌱 I’m currently learning FastAPI
+- 🌱 I’m currently learning JS
+- 🔭 I’m currently working on [my-py](https://my-py.ru/)
 - 🔭 My web projects:
-1. [Flask blog](http://mikedoit.pythonanywhere.com/)
-2. [Flask English App](https://my-english-coach.herokuapp.com/) 
+1. [Flask blog](https://flask-blog.my-py.ru/)
+2. [Flask English App](https://english-coach.my-py.ru/)
+3. [ToDo List Django](https://tododjango.my-py.ru/)
+4. [My Single Page Flask](https://my-py.site/)
+..........
  
 - 🤔 How to reach me:
 - [VK profile](https://vk.com/hello_world_ru)
@@ -19,8 +23,8 @@ Mikhail Terekhov | Mike do It
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on flask blog
-- 🌱 I’m currently learning flask
+- 🔭 I’m currently working on [my-py](https://my-py.ru/)
+- 🌱 I’m currently learning JS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
