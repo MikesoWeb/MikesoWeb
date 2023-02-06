@@ -2,8 +2,8 @@
 
 I'm **Mike**, a Python developer with several years of experience using web frameworks such as Flask, Django, and fastAPI. I'm also learning JS and React.
 
-🌱 **Currently learning:** JavaScript
-💻 **Currently working on:** [my-py](https://github.com/mikedoit)
+-🌱 **Currently learning:** JavaScript
+-💻 **Currently working on:** [my-py](https://github.com/mikedoit)
 
 ## My web projects include:
 
