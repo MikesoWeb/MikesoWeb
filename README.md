@@ -1,16 +1,20 @@
-Hi there 👋
-I'm Mike, a Python developer with several years of experience using web frameworks such as Flask, Django, and fastAPI. I'm also learning JS and React.
+# Hi there 👋
 
-🌱 Currently learning: JavaScript
-💻 Currently working on: [my-py](https://my-py.ru){:rel="noopener noreferrer"}
-My web projects include:
+I'm **Mike**, a Python developer with several years of experience using web frameworks such as Flask, Django, and fastAPI. I'm also learning JS and React.
 
-[Flask blog](https://flask-blog.my-py.ru){:rel="noopener noreferrer"}
-[Flask English App](https://english-coach.my-py.ru){:rel="noopener noreferrer"}
-[ToDo List Django](https://tododjango.my-py.ru){:rel="noopener noreferrer"}
-You can reach me at:
+🌱 **Currently learning:** JavaScript
+💻 **Currently working on:** [my-py](https://github.com/mikedoit)
 
-[VK profile](https://vk.com/hello_world_ru){:rel="noopener noreferrer"}
-[VK group](https://vk.com/python_for_me){:rel="noopener noreferrer"}
-[Youtube channel](https://www.youtube.com/channel/UCLr7DxWBT0NWZv_w4uvLJaw){:rel="noopener noreferrer"}
-Mikhail Terekhov | Mike do It
+## My web projects include:
+
+- [Flask blog](https://github.com/mikedoit/flask-blog)
+- [Flask English App](https://github.com/mikedoit/flask-english-app)
+- [ToDo List Django](https://github.com/mikedoit/todo-list-django)
+
+### You can reach me at:
+
+- [VK profile](https://vk.com/mike_do_it)
+- [VK group](https://vk.com/mike_do_it_group)
+- [Youtube channel](https://www.youtube.com/channel/UCzgWZb3qZpGq0dvL8zKwFQQ)
+
+_Mikhail Terekhov | Mike do It_
